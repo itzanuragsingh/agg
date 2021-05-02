@@ -1,41 +1,41 @@
 module.exports = {
-  siteTitle: 'Anmol Pratap Singh | Software Engineer',
+  siteTitle: 'Anurag singh| front end developer',
   siteDescription:
-    'Anmol Singh is a software engineer based in Banglore, India who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+  'anurag Singh is a front end web developer based in Uttar Pradesh , India who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Anmol Singh, Anmol, singh, anmol098, software engineer, back-end engineer, web developer, javascript, indian',
+    'Anuragsingh, Anurag, singh, anurag989, frontend developer,web developer,personal website,anurag singh,kataria,anurag singh kataria,tanyagoyal,backend developer ,web developer,student, programmer, programming,coder,anu, web developer, javascript, indian',
   siteUrl: 'https://anmolsingh.me',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-127188467-2',
-  googleVerification: 'zWJzGMVk8J4FpXsLNpt7CB17SPaa2_ti9YfdGwnGr00',
-  name: 'Anmol Pratap Singh',
-  location: 'Banglore, India',
-  email: 'hi@anmolsingh.me',
-  github: 'https://github.com/anmol098',
-  twitterHandle: '@misteranmol',
+  googleAnalyticsID: '',
+  googleVerification: '',
+  name: ' Anurag singh',
+  location: 'Uttar pradesh, India',
+  email: 'anurag989719@gmail.com',
+  github: 'https://github.com/anurag989',
+  twitterHandle: '',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/anmol098',
+      url: 'https://github.com/anurag989',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/anmol098',
+      url: '',
     },
     {
       name: 'Npm',
-      url: 'npx anmol',
+      url: 'CONTACT',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/misteranmol',
+      url: 'https://instagram.com/sizukanobita.fc?igshid=183hyiwr8m6j5',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/misteranmol',
+      url: '',
     },
   ],
-  lastUpdated: '23-Nov-2020',
+  lastUpdated: '1-May-2021',
 
   navLinks: [
     {
