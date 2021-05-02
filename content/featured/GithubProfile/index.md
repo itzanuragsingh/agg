@@ -1,13 +1,14 @@
 ---
 date: '2'
-title: 'Github Profile Readme'
+title: 'Url shortner'
 cover: './demo.png'
-github: 'https://github.com/anmol098/anmol098'
-external: 'https://github.com/anmol098'
+github: 'https://github.com/anurag989/ag'
+external: 'https://github.com/anurag989'
 tech:
-  - Markdown
-  - Github Actions
+  - php
+  - javascript 
+  - github pages
 showInProjects: true
 ---
 
-You found a secret! anmol098/anmol098 is a ✨special ✨ repository that you can use to add a README.md to your GitHub profile.
+this is a free url shortner....
