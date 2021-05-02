@@ -1,18 +1,19 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './pgts.jpg'
 skills:
-  - JavaScript (ES6+)
-  - Vue
-  - Node.js
-  - SuiteScript
-  - Python
+  - Javascript
+  - html
+  - css
+  - bootstrap 
+  - AngularJS
+
 ---
 
-Hello! I'm Anmol, a software engineer based in Banglore, India.
+Hello! I'm Anurag , a front end developer based in Uttar Pradesh, India.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect experiences.
 
-Shortly after graduating from [SRM University](https://www.srmist.edu.in/), I joined the engineering team at [ClearTax](https://www.cleartax.in/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Shortly after 12th from [Suditi global academy](https:///), I joined the web development at [codingal](https://www.codingalweb.com/) where I learn a wide variety of interesting and meaningful projects on a daily basis.
 
 Here are a few technologies I've been working with recently:
