@@ -93,17 +93,17 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/bchiang7/v4"
+          href="https://github.com/anurag989/"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Brittany Chiang |</div>
+          <div>Designed &amp; Built by Anurag singh  |</div>
 
         </StyledGitHubLink>
         <StyledGitHubLink
-          href="https://github.com/anmol098"
+          href="https://github.com/anurag989"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>| Customized By Anmol Pratap Singh</div>
+          <div> ©️ copyright 2021 Altcoder(Anurag) </div>
 
         </StyledGitHubLink>
         <StyledGitHubInfo>
