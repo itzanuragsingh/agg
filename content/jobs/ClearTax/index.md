@@ -1,12 +1,12 @@
 ---
-date: '2020-03-02'
-title: 'Software Engineer'
-company: 'ClearTax'
-location: 'Banglore, India'
-range: 'March 2020 - Present'
-url: 'https://www.cleartax.in/'
+date: '2021-03-02'
+title: 'front end developer'
+company: 'ALTCODER'
+location: 'Uttar pradesh, India'
+range: ' May 01 2021 - Present'
+url: 'https://g.co/kgs/ximHdP'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Developed in-house airline module for claiming input tax credits and helping company to save up to ₹10 LPA on recurring basis.
-- Developed Oracle NetSuite Connector to ingest ERP data to our server for easy filing of GST returns and thus boost the product reach by 20% across India.
+- Write modern maintainable code of landing pages for website
+- Sometimes work as a ui and ux designer and graphic designer too.
+- Developing and learning new things everyday at altcoders .
