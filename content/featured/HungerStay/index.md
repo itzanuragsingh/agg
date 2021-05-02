@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'HungerStay'
+title: 'ALTCODER
 cover: './Hungerstay.png'
 github: 'https://github.com/anurag989/altcoder'
 external: 'https://altcoder.cf/
